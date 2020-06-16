@@ -28,7 +28,7 @@ Dicho lo anterior, el propósito de esta clase es lograr desarrollar un análisi
 
 |# de la clase|Tema|Presentación|
 |:------------|:----|-----------|
-|Clase 1|Introducción al Marketing Digital|[p1]()|
+|Clase 1|Introducción al Marketing Digital|[p1](https://github.com/carlosjimenez88M/Marketing_Digital/blob/master/Presentaciones/Clase1.pdf)|
 |Clase 2|Google Analytics |[p2]()|
 |Clase 3|Google Analytics II|[p3]()|
 |Clase 4|Modelos de optimización y otros topics|[p4]()|
