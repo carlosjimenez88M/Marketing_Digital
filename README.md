@@ -46,7 +46,7 @@ Dicho lo anterior, el propósito de esta clase es lograr desarrollar un análisi
 * Por favor al inciar el curso desarrolle la siguiente encuenta
 [Encuesta Inicial](https://docs.google.com/forms/d/e/1FAIpQLSe6uY6Ba5UTeCbWNyKMOZCuB1NcSqf-bTBqMR3PbQO7ARhdSw/viewform?usp=sf_link)
 
-* Al finalizar el curso por favor desarrolle la siguiente encuesta [Encuesta 2](https://docs.google.com/forms/d/e/1FAIpQLSe6uY6Ba5UTeCbWNyKMOZCuB1NcSqf-bTBqMR3PbQO7ARhdSw/viewform?usp=sf_link)
+* Al finalizar el curso por favor desarrolle la siguiente encuesta [Encuesta Final](https://docs.google.com/forms/d/e/1FAIpQLSe6uY6Ba5UTeCbWNyKMOZCuB1NcSqf-bTBqMR3PbQO7ARhdSw/viewform?usp=sf_link)
 
 
 
