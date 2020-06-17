@@ -50,5 +50,6 @@ Dicho lo anterior, el propósito de esta clase es lograr desarrollar un análisi
 
 
 
-
+## Análitica Avanzada
+* [Tendencia](https://github.com/carlosjimenez88M/Marketing_Digital/blob/master/R_googletrends.R)
 
