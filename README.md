@@ -18,7 +18,7 @@ Dicho lo anterior, el propósito de esta clase es lograr desarrollar un análisi
 
 ## Requisitos
 
-* Abra una cuenta de google, puede hacerlo haciendo clic [aquí](https://analytics.google.com/analytics/web/).
+* Cree una cuenta de google, puede hacerlo haciendo clic [aquí](https://analytics.google.com/analytics/web/).
 
 * Repasemos algunas métricas importantes para el desarrollo de insignths, acá dejo un vídeo que ayudará a reforzar algunos conceptos, haga clic [aquí](https://www.youtube.com/watch?v=tY07KGyyUP8).
 
